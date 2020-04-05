@@ -1,6 +1,6 @@
-#############################################################
-Fleetsu Laravel based REST Service Demo - PSR Compliant code
-#############################################################
+****************************************************************
+## Fleetsu Laravel based REST Service Demo - PSR Compliant code
+****************************************************************
 
 ## About Laravel
 
@@ -17,17 +17,16 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 
-*************************
-Basic Home page:
-*************************
+
+## Basic Home page:
 
 URL: http://127.0.0.1:8000/
 
 * Display the list of configured API i.e., Company Profile and Quote
 
-*************************
-To Get Company Profile:
-*************************
+
+## To Get Company Profile:
+
 Method: GET
 
 URL: http://127.0.0.1:8000/api/v1/company/profile/$name
@@ -38,9 +37,9 @@ Parameters
 
 If no parameter, it will return the error
 
-*************************
-To Get Quote:
-*************************
+
+## To Get Quote:
+
 URL: http://127.0.0.1:8000/api/v1/profile/$name
 
 Method: POST
