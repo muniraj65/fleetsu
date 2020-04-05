@@ -1,5 +1,8 @@
-****************************************************************
 ## Fleetsu Laravel based REST Service Demo - PSR Compliant code
+
+PHP client (Object Oriented)  with Financial Modelling API -
+https://financialmodelingprep.com/developer/docs/
+
 ****************************************************************
 
 ## About Laravel
